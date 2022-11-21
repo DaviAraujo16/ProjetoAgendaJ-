@@ -15,7 +15,7 @@
     "react-dom": "^16.9.0",
     "react-input-mask": "^2.0.4",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "sha1": "^1.1.1",
     "sha512md": "^1.0.0",
     "uws": "^100.0.1"
